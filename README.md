@@ -7,7 +7,7 @@
 <p align="center">
   O projeto é um clone do site <a href="https://www.hbomax.com/br/pt">HBO Max</a>, com o intuito de reproduzir a interface, com algumas modificações, aplicando os temas abordados ao longo das aulas de CSS da plataforma da Digital Innovation One.</p>
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="https://cyber-l4b.github.io/hboMax/">
   <img src="assets/img/readme-images/cover-2.png">
 </a>
 
@@ -47,7 +47,7 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">🌈 Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://cyber-l4b.github.io/hboMax/).
 
 
 <h2 id="author">💻 Autor</h2>
